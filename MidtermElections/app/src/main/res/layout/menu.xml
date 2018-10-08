@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    tools:context=".DetailedActivity">
+    <item
+        android:id="@+id/action_Menu"
+        android:orderInCategory="100"
+        android:title="Menu"
+        app:showAsAction="never" >
+        <menu>
+            <item
+                android:id="@+id/instructions"
+                android:title="Instructions"
+                android:icon="@drawable/bg"/>
+            <item
+                android:id="@+id/hotels"
+                android:title="Hotels"
+                android:icon="@drawable/mechanic"/>
+
+        </menu>
+    </item>
+</menu>

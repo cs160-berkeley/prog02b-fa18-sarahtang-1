@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Represent</string>
+    <string name="title_activity_congressional">CongressionalActivity</string>
+    <string name="title_activity_menu">menuActivity</string>
+</resources>
