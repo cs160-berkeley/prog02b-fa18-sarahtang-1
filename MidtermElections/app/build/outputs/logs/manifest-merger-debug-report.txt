@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/eddc13f6b077d85d6cf8789a7e497889/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/19abea9f0c8c4438a0fc8b59eee48cdb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1453d203f17bc0af78174f1eb94abc6e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a232c49afba4f08e24fea433686a2670/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e4fc24547890d58081808f42119f11de/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5cbc9f3ee5dfec62f3a5ae8a9860becc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/24c08ad08d3bddcd9ccef471909d5165/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/fd068992160349d6dc414979f8ae697a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ea7b77f82157d1fdd44c51d886b39373/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/a1e0377a588041922a8275cf882d3a3c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59933f32c8a4b8c1ba45582ad1564a3c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b3c7a85713b55a7b6b145929365483bb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a56303eafa16987dba1f78a4a9c7fc06/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a8046c08422c2f3149d3ef54ad5bda06/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1bb1753289daf8209d864117a4e5dc8e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b3815adcc720ff3a9eb4f8e5a0e93c8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6c9c4284d168649a6090e480da7ba68/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.volley:volley:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/998c4ef0ddc1db35d10cb2fb87b65859/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4d9a4437e3b7b219e5ecdeea6d9d5c76/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4a2d90374557fe9cb70554dfbb827106/AndroidManifest.xml:17:1-28:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7d956ea06de7c6451765611dcd9237c9/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/81d62c752de90735f0cf1f37389c92c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4a1a8a86ba2394d20280867117f45066/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/eddc13f6b077d85d6cf8789a7e497889/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/eddc13f6b077d85d6cf8789a7e497889/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/19abea9f0c8c4438a0fc8b59eee48cdb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/19abea9f0c8c4438a0fc8b59eee48cdb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1453d203f17bc0af78174f1eb94abc6e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1453d203f17bc0af78174f1eb94abc6e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e4fc24547890d58081808f42119f11de/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e4fc24547890d58081808f42119f11de/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5cbc9f3ee5dfec62f3a5ae8a9860becc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5cbc9f3ee5dfec62f3a5ae8a9860becc/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/24c08ad08d3bddcd9ccef471909d5165/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/24c08ad08d3bddcd9ccef471909d5165/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/fd068992160349d6dc414979f8ae697a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/fd068992160349d6dc414979f8ae697a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ea7b77f82157d1fdd44c51d886b39373/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ea7b77f82157d1fdd44c51d886b39373/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/a1e0377a588041922a8275cf882d3a3c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/a1e0377a588041922a8275cf882d3a3c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59933f32c8a4b8c1ba45582ad1564a3c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59933f32c8a4b8c1ba45582ad1564a3c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b3c7a85713b55a7b6b145929365483bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b3c7a85713b55a7b6b145929365483bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a56303eafa16987dba1f78a4a9c7fc06/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a56303eafa16987dba1f78a4a9c7fc06/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a8046c08422c2f3149d3ef54ad5bda06/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a8046c08422c2f3149d3ef54ad5bda06/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1bb1753289daf8209d864117a4e5dc8e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1bb1753289daf8209d864117a4e5dc8e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b3815adcc720ff3a9eb4f8e5a0e93c8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b3815adcc720ff3a9eb4f8e5a0e93c8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6c9c4284d168649a6090e480da7ba68/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6c9c4284d168649a6090e480da7ba68/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.volley:volley:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/998c4ef0ddc1db35d10cb2fb87b65859/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/998c4ef0ddc1db35d10cb2fb87b65859/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4d9a4437e3b7b219e5ecdeea6d9d5c76/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4d9a4437e3b7b219e5ecdeea6d9d5c76/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4a2d90374557fe9cb70554dfbb827106/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4a2d90374557fe9cb70554dfbb827106/AndroidManifest.xml:26:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7d956ea06de7c6451765611dcd9237c9/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7d956ea06de7c6451765611dcd9237c9/AndroidManifest.xml:7:5-12:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4a1a8a86ba2394d20280867117f45066/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4a1a8a86ba2394d20280867117f45066/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.sarahtang.midtermelections.MainActivity
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.sarahtang.midtermelections.CongressionalActivity
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:22:19-56
+activity#com.example.sarahtang.midtermelections.DetailedActivity
+ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml:23:19-51
+uses-sdk
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/eddc13f6b077d85d6cf8789a7e497889/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/eddc13f6b077d85d6cf8789a7e497889/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/19abea9f0c8c4438a0fc8b59eee48cdb/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/19abea9f0c8c4438a0fc8b59eee48cdb/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1453d203f17bc0af78174f1eb94abc6e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1453d203f17bc0af78174f1eb94abc6e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a232c49afba4f08e24fea433686a2670/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a232c49afba4f08e24fea433686a2670/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e4fc24547890d58081808f42119f11de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e4fc24547890d58081808f42119f11de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5cbc9f3ee5dfec62f3a5ae8a9860becc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5cbc9f3ee5dfec62f3a5ae8a9860becc/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/24c08ad08d3bddcd9ccef471909d5165/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/24c08ad08d3bddcd9ccef471909d5165/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/fd068992160349d6dc414979f8ae697a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/fd068992160349d6dc414979f8ae697a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ea7b77f82157d1fdd44c51d886b39373/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/ea7b77f82157d1fdd44c51d886b39373/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/a1e0377a588041922a8275cf882d3a3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/a1e0377a588041922a8275cf882d3a3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59933f32c8a4b8c1ba45582ad1564a3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59933f32c8a4b8c1ba45582ad1564a3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b3c7a85713b55a7b6b145929365483bb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b3c7a85713b55a7b6b145929365483bb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a56303eafa16987dba1f78a4a9c7fc06/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a56303eafa16987dba1f78a4a9c7fc06/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a8046c08422c2f3149d3ef54ad5bda06/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a8046c08422c2f3149d3ef54ad5bda06/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1bb1753289daf8209d864117a4e5dc8e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1bb1753289daf8209d864117a4e5dc8e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b3815adcc720ff3a9eb4f8e5a0e93c8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b3815adcc720ff3a9eb4f8e5a0e93c8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6c9c4284d168649a6090e480da7ba68/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6c9c4284d168649a6090e480da7ba68/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/998c4ef0ddc1db35d10cb2fb87b65859/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/998c4ef0ddc1db35d10cb2fb87b65859/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4d9a4437e3b7b219e5ecdeea6d9d5c76/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4d9a4437e3b7b219e5ecdeea6d9d5c76/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4a2d90374557fe9cb70554dfbb827106/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4a2d90374557fe9cb70554dfbb827106/AndroidManifest.xml:20:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7d956ea06de7c6451765611dcd9237c9/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7d956ea06de7c6451765611dcd9237c9/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/81d62c752de90735f0cf1f37389c92c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/81d62c752de90735f0cf1f37389c92c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4a1a8a86ba2394d20280867117f45066/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4a1a8a86ba2394d20280867117f45066/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/19abea9f0c8c4438a0fc8b59eee48cdb/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahtang/Desktop/fall18/cs160/prog02b-fa18-sarahtang-1/MidtermElections/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/19abea9f0c8c4438a0fc8b59eee48cdb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1453d203f17bc0af78174f1eb94abc6e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1453d203f17bc0af78174f1eb94abc6e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a232c49afba4f08e24fea433686a2670/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a232c49afba4f08e24fea433686a2670/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e4fc24547890d58081808f42119f11de/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e4fc24547890d58081808f42119f11de/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5cbc9f3ee5dfec62f3a5ae8a9860becc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5cbc9f3ee5dfec62f3a5ae8a9860becc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59933f32c8a4b8c1ba45582ad1564a3c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/59933f32c8a4b8c1ba45582ad1564a3c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a56303eafa16987dba1f78a4a9c7fc06/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a56303eafa16987dba1f78a4a9c7fc06/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a8046c08422c2f3149d3ef54ad5bda06/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a8046c08422c2f3149d3ef54ad5bda06/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1bb1753289daf8209d864117a4e5dc8e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1bb1753289daf8209d864117a4e5dc8e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b3815adcc720ff3a9eb4f8e5a0e93c8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7b3815adcc720ff3a9eb4f8e5a0e93c8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6c9c4284d168649a6090e480da7ba68/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e6c9c4284d168649a6090e480da7ba68/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4a2d90374557fe9cb70554dfbb827106/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/4a2d90374557fe9cb70554dfbb827106/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/19abea9f0c8c4438a0fc8b59eee48cdb/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/19abea9f0c8c4438a0fc8b59eee48cdb/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/24c08ad08d3bddcd9ccef471909d5165/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/24c08ad08d3bddcd9ccef471909d5165/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/24c08ad08d3bddcd9ccef471909d5165/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/24c08ad08d3bddcd9ccef471909d5165/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/a1e0377a588041922a8275cf882d3a3c/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/a1e0377a588041922a8275cf882d3a3c/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/a1e0377a588041922a8275cf882d3a3c/AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7d956ea06de7c6451765611dcd9237c9/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7d956ea06de7c6451765611dcd9237c9/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7d956ea06de7c6451765611dcd9237c9/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7d956ea06de7c6451765611dcd9237c9/AndroidManifest.xml:9:13-64
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4a1a8a86ba2394d20280867117f45066/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4a1a8a86ba2394d20280867117f45066/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarahtang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4a1a8a86ba2394d20280867117f45066/AndroidManifest.xml:26:13-58
